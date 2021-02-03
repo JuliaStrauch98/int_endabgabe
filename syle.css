@@ -44,3 +44,6 @@ a:link, a:visited{
 	flex-wrap: nowrap;
 	width: 100%;
 }
+.copyright {
+	display: flex;
+}
