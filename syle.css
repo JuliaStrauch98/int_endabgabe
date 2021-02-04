@@ -65,12 +65,11 @@
   }
 .werbung {
 	display: flex;
-	background-color: white;
 	flex-direction: row;
 	flex-wrap: nowrap;
 }
-.rueckenschmerzen{
-	box-shadow: lightgrey 0.1em 0.1em 0.2em;
+.rueckenschmerzen, .kopfschmerzen{
+	box-shadow: lightgrey 0.1em 0.1em 0.1em 0.1em;
 	padding: 1%;
 	
 }
