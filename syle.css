@@ -51,25 +51,41 @@
   .beschreibungp1 {
       opacity:0;	
       transition-duration: 400ms;
-	  transform: translate(30%, -140%);
+	  transform: translate(38%, -113%);
 	  width: 17%;
-	 height: 100%;
-	  padding: 2%;
+	 height: 89%;
+	  padding: 1%;
 }
 
  .beschreibungp1:hover {
       opacity: 1;
 	  background-color:rgba(200,200,200,0.5);
 	 width: 17%;
-	 height: 100%;
+	 height: 89%;
   }
-.werbung {
+.werbung, .werbung2{
 	display: flex;
-	flex-direction: row;
 	flex-wrap: nowrap;
+	flex-direction: row;
+	padding: 1%;
 }
+.unserteam{
+	font-size: 30px;
+	margin: 3% 0% 0% 0%;
+}
+
 .rueckenschmerzen, .kopfschmerzen{
 	box-shadow: lightgrey 0.1em 0.1em 0.1em 0.1em;
-	padding: 1%;
+	padding: 2%;
+	margin: 2%;
 	
+	
+}
+.ueberschrift{
+	font-size: 30px;
+	margin-bottom: -40px;
+	padding: 1%;
+}
+.text2{
+	padding: 1%;
 }
