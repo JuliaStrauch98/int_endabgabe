@@ -58,22 +58,25 @@
 .unserteam{
 	  position: relative;
   	width: 50%;
+
 }
 
 .rueckenschmerzen, .kopfschmerzen{
-	box-shadow: lightgrey 0.1em 0.1em 0.1em 0.1em;
+	box-shadow: lightgrey 0.5px 0.5px 0.5px 0.5px;
 	padding: 2%;
 	margin: 2%;
-	
+	background-color: white;
 	
 }
 .ueberschrift{
 	font-size: 30px;
 	margin-bottom: -2%;
-	padding: 1%;
+	padding-top: 50%;
+	margin-top: 5%;
 }
 .text2{
 	padding: 1%;
+	
 }
 
 .beschreibungp1 {
@@ -91,6 +94,7 @@
 .p1{
 	display: block;
   height: auto;
+	margin-top: 10%;
 }
 .team1:hover .beschreibungp1 {
   opacity: 1;
