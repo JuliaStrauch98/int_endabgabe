@@ -53,7 +53,7 @@ body{
 	display: flex;
 	flex-wrap: nowrap;
 	flex-direction: row;
-	padding: 1%;
+	padding: 0%;
 }
 .arznei {
 	display: flex;
@@ -166,4 +166,8 @@ body{
 
 .bildzuarznai {
 	padding: 3%;
+}
+
+.footer {
+	margin: 5% 0% 3% 2%;
 }
