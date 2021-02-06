@@ -113,3 +113,44 @@ body{
 .team1:hover .beschreibungp1 {
   opacity: 1;
 }
+
+#hyper:active {
+	width:300px;
+    height:300px;
+}
+
+#pulmo:active {
+	width:300px;
+    height:300px;
+}
+#prost:active {
+	width:300px;
+    height:300px;
+}
+#umc:active {
+	width:300px;
+    height:300px;
+}
+
+#babix:active {
+	width:300px;
+    height:300px;
+}
+#sinus:active {
+	width:300px;
+    height:300px;
+}
+#femi:active {
+	width:300px;
+    height:300px;
+}
+
+#calm:active {
+	width:300px;
+    height:300px;
+}
+
+#bilan:active {
+	width:300px;
+    height:300px;
+}
