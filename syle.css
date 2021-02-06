@@ -154,3 +154,16 @@ body{
 	width:300px;
     height:300px;
 }
+
+.tabelle {
+	padding: 3%;
+	text-align: left;
+	
+}
+.td {
+	padding-left: 3%;
+}
+
+.bildzuarznai {
+	padding: 3%;
+}
